@@ -1,6 +1,6 @@
 # Reader
 
-### Example Usage
+> Example Usage
 
 ```java
 public abstract class Options {
@@ -42,3 +42,24 @@ public abstract class Options {
     }
 }
 ```
+
+> Example appsettings
+
+```json
+{
+    "Test" : {
+        "Local" : "Hazar Fatih Akman",
+        "MyArray" : [
+            1,
+            12,
+            314
+        ],
+        "MyDecimal" : 3.03,
+        "MyBoolean" : true
+    }
+}
+```
+> Example Output
+
+
+![Screenshot 2024-06-10 at 5 29 07 PM](https://github.com/HazarFatihAkman/Reader/assets/74676200/0428df38-845d-47ee-9135-90b2b81f13c2)
